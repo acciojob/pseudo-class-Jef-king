@@ -2,8 +2,8 @@
 #container{
 	margin:20px;
 }
-#container>div>p:first-child{
-	color:#f00;
+#container>p:first-child{
+	color:rgb(255,0,0);
 	font-size:20px;
 }
 #container>p:last-child{

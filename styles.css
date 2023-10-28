@@ -2,11 +2,11 @@
 #container{
 	margin:20px;
 }
-#container>p>span:first-child{
+#container>p>#before{
 	color:#f00;
 	font-size:20px;
 }
-#container>p>span:last-child{
+#container>p>#after{
 	color:#f00;
 	font-size:20px;
 }

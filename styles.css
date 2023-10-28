@@ -2,9 +2,11 @@
 #container{
 	margin:20px;
 }
-#container>p:first-child{
+#container>div>p:first-child{
 	color:#f00;
+	font-size:20px;
 }
 #container>p:last-child{
 	color:#f00;
+	font-size:20px;
 }

@@ -2,7 +2,7 @@
 #container{
 	margin:20px;
 }
-.before,.after{
+#container>p>.before,#container>p>.after{
 	color:#f00;
 	font-size:20px;
 }
